@@ -1,0 +1,16 @@
+{
+  "name": "web-vite-tailwindcss-handlebar",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --host",
+    "serve": "vite preview --host"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.3.6",
+    "postcss": "^8.3.8",
+    "tailwindcss": "^2.2.16",
+    "vite": "^2.5.4",
+    "vite-plugin-handlebars": "^1.6.0"
+  }
+}
